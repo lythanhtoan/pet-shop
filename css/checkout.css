@@ -1,0 +1,33 @@
+
+div a{
+    color: #f390bc;
+}
+div a:hover{
+    color: #f8b0d0;
+    text-decoration: none;
+}
+.group-checkout {
+    margin-bottom: 15px;
+    
+}
+.group-checkout input{
+    width: 50%;
+    height: 50px;
+   
+}
+.group-checkout textarea{
+    width: 50%;
+    margin-bottom: 50px;
+}
+.checkout-price{
+    margin: 10px 20px;
+  }
+  .checkout-price tr th,
+  .checkout-price tr td{
+    border: solid 1px #fff;
+  }
+  .checkout-price tr td{
+    text-align: center;
+   
+    padding: 0 50px;
+  }
